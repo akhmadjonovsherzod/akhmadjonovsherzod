@@ -1,5 +1,5 @@
 ## 💼 About Me
-I'm Sherzodbek, a Business Informatics student at the University of Debrecen with strong interests in Data Analysis, Web Development, and Digital Innovation.
+I'm Sherzodbek, a Business Informatics student at the University of Debrecen with strong interests in Data Analysis, Business Intelligence, Web Development, and Digital Innovation.
 
 - 🔎 Experienced in Python, Pandas, Matplotlib, Seaborn for Data Analytics
 - 🧠 Skilled with React.js, HTML5, CSS3, Firebase for Front-End projects
